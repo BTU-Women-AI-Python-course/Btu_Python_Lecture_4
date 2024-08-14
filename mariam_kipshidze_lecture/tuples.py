@@ -1,3 +1,4 @@
+"""Tuple Methods"""
 # Initial tuple
 fruits = ('apple', 'banana', 'cherry')
 
